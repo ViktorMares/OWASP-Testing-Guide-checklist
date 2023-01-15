@@ -1,7 +1,7 @@
 # OWASP-Testing-Guide-checklist
 The OWASP Testing Guide v4.2 Checlist [2023]
 
-## Download the Excel, to use the full checklist with information and tools about each testing point
+### Download the Excel file, to use the full checklist with information and tools about each testing point
 
 The contents are from: https://owasp.org/www-project-web-security-testing-guide/v42/
 

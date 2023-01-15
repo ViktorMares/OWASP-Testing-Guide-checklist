@@ -9,7 +9,7 @@ The contents are from: https://owasp.org/www-project-web-security-testing-guide/
 This section describes the OWASP web application security testing methodology and explains how to test for evidence of vulnerabilities within the application due to deficiencies with identified security controls.
 
 ### 4.1 Information Gathering
-[] 4.1.1 Conduct Search Engine Discovery Reconnaissance for Information Leakage
+[x] 4.1.1 Conduct Search Engine Discovery Reconnaissance for Information Leakage
 4.1.2 Fingerprint Web Server
 4.1.3 Review Webserver Metafiles for Information Leakage
 4.1.4 Enumerate Applications on Webserver
